@@ -1,0 +1,4 @@
+GROUPNAME;HOSTNAME;HOST;USERNAME;PASSWORD;STATE
+Локальный компьютер;Локальный компьютер;localhost;;;False
+Сервер;Сервер БД;10.0.0.1;user;ok;False
+Сервер;Файловый сервер;10.0.0.2;user;ok;False
